@@ -1,0 +1,20 @@
+{
+  "name": "company-profile-frontend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "serve": "vue-cli-service serve --open --port 8080",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@vue/cli-service": "^5.0.8",
+    "axios": "^1.7.2",
+    "vue": "^2.7.16",
+    "vue-router": "^3.6.5"
+  }
+}
